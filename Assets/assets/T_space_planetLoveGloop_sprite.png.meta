@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 0f20196d7903f2c48bde2b2748047cc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3541125414520550973
+    second: T_space_planetLoveGloop_sprite_0
+  - first:
+      213: -5628795205872007848
+    second: T_space_planetLoveGloop_sprite_1
+  - first:
+      213: 3467465115648608665
+    second: T_space_planetLoveGloop_sprite_2
+  - first:
+      213: 1513272462613406330
+    second: T_space_planetLoveGloop_sprite_3
+  - first:
+      213: -7920386852098445362
+    second: T_space_planetLoveGloop_sprite_4
+  - first:
+      213: -9187421390484170798
+    second: T_space_planetLoveGloop_sprite_5
+  - first:
+      213: -7655300299487898973
+    second: T_space_planetLoveGloop_sprite_6
+  - first:
+      213: 3892650247530190988
+    second: T_space_planetLoveGloop_sprite_7
+  - first:
+      213: -5641180156745820259
+    second: T_space_planetLoveGloop_sprite_8
+  - first:
+      213: -8775681915742052650
+    second: T_space_planetLoveGloop_sprite_9
+  - first:
+      213: -1611674300851994217
+    second: T_space_planetLoveGloop_sprite_10
+  - first:
+      213: 5896776402725602893
+    second: T_space_planetLoveGloop_sprite_11
+  - first:
+      213: 8856056365721599226
+    second: T_space_planetLoveGloop_sprite_12
+  - first:
+      213: 7900136558094538713
+    second: T_space_planetLoveGloop_sprite_13
+  - first:
+      213: 4910069929764622101
+    second: T_space_planetLoveGloop_sprite_14
+  - first:
+      213: -8020520660284139807
+    second: T_space_planetLoveGloop_sprite_15
+  - first:
+      213: 8765569075107333356
+    second: T_space_planetLoveGloop_sprite_16
+  - first:
+      213: 5869137452037872274
+    second: T_space_planetLoveGloop_sprite_17
+  - first:
+      213: -1236238562281704015
+    second: T_space_planetLoveGloop_sprite_18
+  - first:
+      213: -8414686426830403870
+    second: T_space_planetLoveGloop_sprite_19
+  - first:
+      213: -6468957820255157132
+    second: T_space_planetLoveGloop_sprite_20
+  - first:
+      213: 2286022324292566246
+    second: T_space_planetLoveGloop_sprite_21
+  - first:
+      213: 5064272950628418774
+    second: T_space_planetLoveGloop_sprite_22
+  - first:
+      213: 3768600485828066230
+    second: T_space_planetLoveGloop_sprite_23
+  - first:
+      213: 3761289637431624911
+    second: T_space_planetLoveGloop_sprite_24
+  - first:
+      213: -4836490834577224215
+    second: T_space_planetLoveGloop_sprite_25
+  - first:
+      213: 2676169734280155732
+    second: T_space_planetLoveGloop_sprite_26
+  - first:
+      213: 1245935347192004523
+    second: T_space_planetLoveGloop_sprite_27
+  - first:
+      213: 404344001619409636
+    second: T_space_planetLoveGloop_sprite_28
+  - first:
+      213: -8623793421206441148
+    second: T_space_planetLoveGloop_sprite_29
+  - first:
+      213: 6302223578249097716
+    second: T_space_planetLoveGloop_sprite_30
+  - first:
+      213: -1230136833336555223
+    second: T_space_planetLoveGloop_sprite_31
+  - first:
+      213: 3246527448490348341
+    second: T_space_planetLoveGloop_sprite_32
+  - first:
+      213: -8133750658867620989
+    second: T_space_planetLoveGloop_sprite_33
+  - first:
+      213: 5806937358654659402
+    second: T_space_planetLoveGloop_sprite_34
+  - first:
+      213: -7807868722152350872
+    second: T_space_planetLoveGloop_sprite_35
+  - first:
+      213: -9105746262683492208
+    second: T_space_planetLoveGloop_sprite_36
+  - first:
+      213: -4345482980045407147
+    second: T_space_planetLoveGloop_sprite_37
+  - first:
+      213: 3910976901771680527
+    second: T_space_planetLoveGloop_sprite_38
+  - first:
+      213: 3359436134057519619
+    second: T_space_planetLoveGloop_sprite_39
+  - first:
+      213: 5261139090110234254
+    second: T_space_planetLoveGloop_sprite_40
+  - first:
+      213: 5184226941749262616
+    second: T_space_planetLoveGloop_sprite_41
+  - first:
+      213: -3882982060144385481
+    second: T_space_planetLoveGloop_sprite_42
+  - first:
+      213: -5120371935873480421
+    second: T_space_planetLoveGloop_sprite_43
+  - first:
+      213: 1112407917544259581
+    second: T_space_planetLoveGloop_sprite_44
+  - first:
+      213: -5549996377553489466
+    second: T_space_planetLoveGloop_sprite_45
+  - first:
+      213: -21989887602251730
+    second: T_space_planetLoveGloop_sprite_46
+  - first:
+      213: 4073526690346362281
+    second: T_space_planetLoveGloop_sprite_47
+  - first:
+      213: 8761080570434287135
+    second: T_space_planetLoveGloop_sprite_48
+  - first:
+      213: -99320894189129306
+    second: T_space_planetLoveGloop_sprite_49
+  - first:
+      213: 5400260926114398635
+    second: T_space_planetLoveGloop_sprite_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9056a72356bdec0800000000000000
+      internalID: -3541125414520550973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855c398359082e1b0800000000000000
+      internalID: -5628795205872007848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9994b49b629ee1030800000000000000
+      internalID: 3467465115648608665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72e37e7949300510800000000000000
+      internalID: 1513272462613406330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6ffc3f12251290800000000000000
+      internalID: -7920386852098445362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 431
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d79d522ce8bf7080800000000000000
+      internalID: -9187421390484170798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a21518efe8e2c590800000000000000
+      internalID: -7655300299487898973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 431
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c889fd6a6c8750630800000000000000
+      internalID: 3892650247530190988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 107
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97de23298086b1b0800000000000000
+      internalID: -5641180156745820259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de106e0bc3863680800000000000000
+      internalID: -8775681915742052650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791471c23ce22a9e0800000000000000
+      internalID: -1611674300851994217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 363
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d468d5455ee85d150800000000000000
+      internalID: 5896776402725602893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc3cadd75807ea70800000000000000
+      internalID: 8856056365721599226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d75d46c75ce2ad60800000000000000
+      internalID: 7900136558094538713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f82f12692142440800000000000000
+      internalID: 4910069929764622101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 315
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6151a34f261b090800000000000000
+      internalID: -8020520660284139807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce40cefb1ae85a970800000000000000
+      internalID: 8765569075107333356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a98a6aa6d537150800000000000000
+      internalID: 5869137452037872274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b53f85d39ff7dee0800000000000000
+      internalID: -1236238562281704015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e609781747093b80800000000000000
+      internalID: -8414686426830403870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474c4b0f225a936a0800000000000000
+      internalID: -6468957820255157132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec321c213599bf10800000000000000
+      internalID: 2286022324292566246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d483dbba69e74640800000000000000
+      internalID: 5064272950628418774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb752acc22cc4430800000000000000
+      internalID: 3768600485828066230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc448704ff8c23430800000000000000
+      internalID: 3761289637431624911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed8795f53551ecb0800000000000000
+      internalID: -4836490834577224215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4529b62c13aa32520800000000000000
+      internalID: 2676169734280155732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf7b76d8937a4110800000000000000
+      internalID: 1245935347192004523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 179
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab5972ab48c9500800000000000000
+      internalID: 404344001619409636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b3a00391225880800000000000000
+      internalID: -8623793421206441148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f0ac24fef57750800000000000000
+      internalID: 6302223578249097716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c9df411dadeee0800000000000000
+      internalID: -1230136833336555223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f82d8738bfd0d20800000000000000
+      internalID: 3246527448490348341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3839896cedc1f1f80800000000000000
+      internalID: -8133750658867620989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b5e8fd2c2669050800000000000000
+      internalID: 5806937358654659402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd93bd3c0e4a390800000000000000
+      internalID: -7807868722152350872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090e8e5b404e1a180800000000000000
+      internalID: -9105746262683492208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c33e4c04eb1b3c0800000000000000
+      internalID: -4345482980045407147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bdbda55c4964630800000000000000
+      internalID: 3910976901771680527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a2c186d5d1f9e20800000000000000
+      internalID: 3359436134057519619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e31f3b022530940800000000000000
+      internalID: 5261139090110234254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81979f1bfe212f740800000000000000
+      internalID: 5184226941749262616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73221e3a360ec1ac0800000000000000
+      internalID: -3882982060144385481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c16c6ad8c0f8b0800000000000000
+      internalID: -5120371935873480421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffbe827b11107f00800000000000000
+      internalID: 1112407917544259581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1383323b37af2b0800000000000000
+      internalID: -5549996377553489466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2821d05050e1bff0800000000000000
+      internalID: -21989887602251730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ea2141f2188830800000000000000
+      internalID: 4073526690346362281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16ff415c5c959970800000000000000
+      internalID: 8761080570434287135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a135174c242f9ef0800000000000000
+      internalID: -99320894189129306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_space_planetLoveGloop_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1887353b491fa40800000000000000
+      internalID: 5400260926114398635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      T_space_planetLoveGloop_sprite_0: -3541125414520550973
+      T_space_planetLoveGloop_sprite_1: -5628795205872007848
+      T_space_planetLoveGloop_sprite_10: -1611674300851994217
+      T_space_planetLoveGloop_sprite_11: 5896776402725602893
+      T_space_planetLoveGloop_sprite_12: 8856056365721599226
+      T_space_planetLoveGloop_sprite_13: 7900136558094538713
+      T_space_planetLoveGloop_sprite_14: 4910069929764622101
+      T_space_planetLoveGloop_sprite_15: -8020520660284139807
+      T_space_planetLoveGloop_sprite_16: 8765569075107333356
+      T_space_planetLoveGloop_sprite_17: 5869137452037872274
+      T_space_planetLoveGloop_sprite_18: -1236238562281704015
+      T_space_planetLoveGloop_sprite_19: -8414686426830403870
+      T_space_planetLoveGloop_sprite_2: 3467465115648608665
+      T_space_planetLoveGloop_sprite_20: -6468957820255157132
+      T_space_planetLoveGloop_sprite_21: 2286022324292566246
+      T_space_planetLoveGloop_sprite_22: 5064272950628418774
+      T_space_planetLoveGloop_sprite_23: 3768600485828066230
+      T_space_planetLoveGloop_sprite_24: 3761289637431624911
+      T_space_planetLoveGloop_sprite_25: -4836490834577224215
+      T_space_planetLoveGloop_sprite_26: 2676169734280155732
+      T_space_planetLoveGloop_sprite_27: 1245935347192004523
+      T_space_planetLoveGloop_sprite_28: 404344001619409636
+      T_space_planetLoveGloop_sprite_29: -8623793421206441148
+      T_space_planetLoveGloop_sprite_3: 1513272462613406330
+      T_space_planetLoveGloop_sprite_30: 6302223578249097716
+      T_space_planetLoveGloop_sprite_31: -1230136833336555223
+      T_space_planetLoveGloop_sprite_32: 3246527448490348341
+      T_space_planetLoveGloop_sprite_33: -8133750658867620989
+      T_space_planetLoveGloop_sprite_34: 5806937358654659402
+      T_space_planetLoveGloop_sprite_35: -7807868722152350872
+      T_space_planetLoveGloop_sprite_36: -9105746262683492208
+      T_space_planetLoveGloop_sprite_37: -4345482980045407147
+      T_space_planetLoveGloop_sprite_38: 3910976901771680527
+      T_space_planetLoveGloop_sprite_39: 3359436134057519619
+      T_space_planetLoveGloop_sprite_4: -7920386852098445362
+      T_space_planetLoveGloop_sprite_40: 5261139090110234254
+      T_space_planetLoveGloop_sprite_41: 5184226941749262616
+      T_space_planetLoveGloop_sprite_42: -3882982060144385481
+      T_space_planetLoveGloop_sprite_43: -5120371935873480421
+      T_space_planetLoveGloop_sprite_44: 1112407917544259581
+      T_space_planetLoveGloop_sprite_45: -5549996377553489466
+      T_space_planetLoveGloop_sprite_46: -21989887602251730
+      T_space_planetLoveGloop_sprite_47: 4073526690346362281
+      T_space_planetLoveGloop_sprite_48: 8761080570434287135
+      T_space_planetLoveGloop_sprite_49: -99320894189129306
+      T_space_planetLoveGloop_sprite_5: -9187421390484170798
+      T_space_planetLoveGloop_sprite_50: 5400260926114398635
+      T_space_planetLoveGloop_sprite_6: -7655300299487898973
+      T_space_planetLoveGloop_sprite_7: 3892650247530190988
+      T_space_planetLoveGloop_sprite_8: -5641180156745820259
+      T_space_planetLoveGloop_sprite_9: -8775681915742052650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
