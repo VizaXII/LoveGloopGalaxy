@@ -8,6 +8,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/7_HealthPickup.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1_Intro Screen.unity
+    guid: 6eaea384b7a2a8e42a56a6a2e3cd67bb
+  - enabled: 1
+    path: Assets/Scenes/2_Dodge Scrap.unity
+    guid: 2006c13b0e63a7344b9071b32b95edff
+  - enabled: 1
+    path: Assets/Scenes/3-4_GetHitPickUp.unity
+    guid: 1606f14c701fb1848a96c98cee7ca8ca
+  - enabled: 1
+    path: Assets/Scenes/5_Gloopcannonshoot.unity
+    guid: 55aa725b85dc6e041b5ed764517d2ce6
+  - enabled: 1
+    path: Assets/Scenes/6_largescrapshootanddodge.unity
+    guid: d128d8624889635449d593deb27e29bf
+  - enabled: 1
+    path: Assets/Scenes/8_Hitanddie.unity
+    guid: afd9c537a4369e6409b9580aabc978e3
+  - enabled: 1
+    path: Assets/Scenes/9_Gameover screen.unity
+    guid: 9ad916ffec597a545bf75a3b1d22deea
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
